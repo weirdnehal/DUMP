@@ -26,5 +26,5 @@ cd File-Cloning
 
 python File-Cloning.py
 ```
-Note: (This Tools Are Free, So You Use File Cloning Tools Enjoy)
+Note: (This Tools Are Free, File Cloning Tools Enjoy)
 
