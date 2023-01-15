@@ -24,7 +24,7 @@ git pull
 
 cd File-Cloning
 
-python3 File-Cloning.py
+python File-Cloning.py
 ```
 Note: (This Tools Are Free, So You Use File Cloning Tools Enjoy)
 
