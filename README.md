@@ -1,6 +1,6 @@
 ## FILE CLONING UPDATE
 ```python
-rm -rf File_Cloning 
+rm -rf File-Cloning 
 
 pkg update
 
@@ -18,13 +18,13 @@ pkg install git
 
 pip install rich
 
-git clone https://github.com/weirdnehal/File_Cloning.git
+git clone https://github.com/weirdnehal/File-Cloning.git
 
 git pull
 
-cd File_Cloning
+cd File-Cloning
 
-python3 File_Cloning.py
+python3 File-Cloning.py
 ```
 Note: (This Tools Are Free, So You Use File Cloning Tools Enjoy)
 
