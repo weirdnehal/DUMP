@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-weirdnehal-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
-</p>
 
 ## FILE DUMPING UPDATE TOOL 64 BIT WORKING
 ```python
