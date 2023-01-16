@@ -1,6 +1,6 @@
-## FILE CLONING UPDATE
+## FILE DUMPING UPDATE TOOL 64 BIT WORKING
 ```python
-rm -rf File-Cloning 
+rm -rf DUMP 
 
 pkg update
 
@@ -18,13 +18,13 @@ pkg install git
 
 pip install rich
 
-git clone https://github.com/weirdnehal/File-Cloning.git
+git clone https://github.com/weirdnehal/DUMP.git
 
 git pull
 
-cd File-Cloning
+cd DUMP
 
-python File-Cloning.py
+python DUMP.py
 ```
-Note: (This Tools Are Free, File Cloning Tools Enjoy)
+Note: (This Tools is Free)
 
