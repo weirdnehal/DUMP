@@ -1,3 +1,13 @@
+
+# Script       : weirdnehal
+# Author       : Nehal Ahmed
+# Github       : https://github.com/weirdnehal
+# Messenger    : https://m.me/nehal.ahmed6
+# Email        : misterweird10@gmail.com
+# Date         : 19-01-2023
+# Main Language: Python
+
+# Download and import
 # Whatsapp +8801613016943
 # Github- https://github.com/weirdnehal
 # Version : 1.0.0
